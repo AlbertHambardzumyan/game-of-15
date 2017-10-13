@@ -14,6 +14,7 @@ public class GameOf15 extends JFrame implements ActionListener {
             for (int col = 0; col < pieces.length; col++) {
                 pieces[row][col] = new JButton("0");
                 pieces[row][col].addActionListener(this);
+                pieces[row][col].setFocusPainted(false);
                 add(pieces[row][col]);
                 pieces[row][col].setVisible(false);
             }
