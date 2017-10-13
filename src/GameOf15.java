@@ -21,6 +21,7 @@ public class GameOf15 extends JFrame implements ActionListener {
 
         shuffle();
         setSize(250, 250);
+        setLocationRelativeTo(null);
         setVisible(true);
     }
 
