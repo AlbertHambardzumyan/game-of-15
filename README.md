@@ -5,4 +5,4 @@ The Game of 15 (also called 15-puzzle, Gem Puzzle, Boss Puzzle, Mystic Square) i
  frame of numbered square tiles in random order with one tile missing. The puzzle also exists in other sizes. The 
  object of the puzzle is to place the tiles in order by making sliding moves that use the empty space.
  
- <img src="https://github.com/AlbertHambardzumyan/game-of-15/tree/master/doc/game-of-15.png" height="250" width="250">
+ <img src="https://github.com/AlbertHambardzumyan/game-of-15/blob/master/doc/game-of-15.png" height="250" width="250">
